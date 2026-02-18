@@ -1,20 +1,27 @@
-# 🧠 Brain Tumor Detection System
+# 🧠 Brain Tumor Detection using CNN
 
-AI-powered MRI scan analysis using TensorFlow and Streamlit.
+## Project Overview
+This project uses a Convolutional Neural Network (CNN) to detect brain tumors from MRI scans.
+
+It also includes a Streamlit web app for real-time image upload and prediction.
 
 ## Features
-- Upload MRI scan
-- Deep learning model prediction
-- Confidence score
-- Modern colorful UI
+- MRI Image Classification
+- CNN Deep Learning Model (TensorFlow/Keras)
+- Streamlit Web App UI
+- Upload MRI → Get Prediction instantly
 
 ## Tech Stack
-- Streamlit
-- TensorFlow
-- OpenCV
-- NumPy
+Python • TensorFlow • Keras • OpenCV • Streamlit
 
 ## Run Locally
-
 pip install -r requirements.txt
+cd Streamlit_App
 streamlit run app.py
+
+## Output
+Predicts:
+- Tumor Detected
+- No Tumor
+
+
