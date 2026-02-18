@@ -23,5 +23,6 @@ streamlit run app.py
 Predicts:
 - Tumor Detected
 - No Tumor
+val_accuracy: 0.8627 – 0.9020
 
 
