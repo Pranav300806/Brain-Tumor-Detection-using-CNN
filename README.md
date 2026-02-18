@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Detection using CNN
+# Brain Tumor Detection using CNN
 
 ## Project Overview
 This project uses a Convolutional Neural Network (CNN) to detect brain tumors from MRI scans.
@@ -24,6 +24,7 @@ Predicts:
 - Tumor Detected
 - No Tumor
 - val_accuracy: 0.8627 – 0.9020
+
 
 
 
